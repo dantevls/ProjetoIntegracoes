@@ -1,0 +1,12 @@
+C:\ProjetoIntegrações\Domain\Util\Domain.Util\bin\Debug\net6.0\Domain.Util.deps.json
+C:\ProjetoIntegrações\Domain\Util\Domain.Util\bin\Debug\net6.0\Domain.Util.dll
+C:\ProjetoIntegrações\Domain\Util\Domain.Util\bin\Debug\net6.0\Domain.Util.pdb
+C:\ProjetoIntegrações\Domain\Util\Domain.Util\obj\Debug\net6.0\Domain.Util.csproj.AssemblyReference.cache
+C:\ProjetoIntegrações\Domain\Util\Domain.Util\obj\Debug\net6.0\Domain.Util.GeneratedMSBuildEditorConfig.editorconfig
+C:\ProjetoIntegrações\Domain\Util\Domain.Util\obj\Debug\net6.0\Domain.Util.AssemblyInfoInputs.cache
+C:\ProjetoIntegrações\Domain\Util\Domain.Util\obj\Debug\net6.0\Domain.Util.AssemblyInfo.cs
+C:\ProjetoIntegrações\Domain\Util\Domain.Util\obj\Debug\net6.0\Domain.Util.csproj.CoreCompileInputs.cache
+C:\ProjetoIntegrações\Domain\Util\Domain.Util\obj\Debug\net6.0\Domain.Util.dll
+C:\ProjetoIntegrações\Domain\Util\Domain.Util\obj\Debug\net6.0\refint\Domain.Util.dll
+C:\ProjetoIntegrações\Domain\Util\Domain.Util\obj\Debug\net6.0\Domain.Util.pdb
+C:\ProjetoIntegrações\Domain\Util\Domain.Util\obj\Debug\net6.0\ref\Domain.Util.dll

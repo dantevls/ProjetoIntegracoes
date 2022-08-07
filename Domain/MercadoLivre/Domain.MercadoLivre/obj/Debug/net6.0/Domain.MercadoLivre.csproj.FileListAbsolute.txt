@@ -1,0 +1,15 @@
+C:\ProjetoIntegrações\Domain\MercadoLivre\Domain.MercadoLivre\bin\Debug\net6.0\Domain.MercadoLivre.deps.json
+C:\ProjetoIntegrações\Domain\MercadoLivre\Domain.MercadoLivre\bin\Debug\net6.0\Domain.MercadoLivre.dll
+C:\ProjetoIntegrações\Domain\MercadoLivre\Domain.MercadoLivre\bin\Debug\net6.0\Domain.MercadoLivre.pdb
+C:\ProjetoIntegrações\Domain\MercadoLivre\Domain.MercadoLivre\bin\Debug\net6.0\Domain.Util.dll
+C:\ProjetoIntegrações\Domain\MercadoLivre\Domain.MercadoLivre\bin\Debug\net6.0\Domain.Util.pdb
+C:\ProjetoIntegrações\Domain\MercadoLivre\Domain.MercadoLivre\obj\Debug\net6.0\Domain.MercadoLivre.csproj.AssemblyReference.cache
+C:\ProjetoIntegrações\Domain\MercadoLivre\Domain.MercadoLivre\obj\Debug\net6.0\Domain.MercadoLivre.GeneratedMSBuildEditorConfig.editorconfig
+C:\ProjetoIntegrações\Domain\MercadoLivre\Domain.MercadoLivre\obj\Debug\net6.0\Domain.MercadoLivre.AssemblyInfoInputs.cache
+C:\ProjetoIntegrações\Domain\MercadoLivre\Domain.MercadoLivre\obj\Debug\net6.0\Domain.MercadoLivre.AssemblyInfo.cs
+C:\ProjetoIntegrações\Domain\MercadoLivre\Domain.MercadoLivre\obj\Debug\net6.0\Domain.MercadoLivre.csproj.CoreCompileInputs.cache
+C:\ProjetoIntegrações\Domain\MercadoLivre\Domain.MercadoLivre\obj\Debug\net6.0\Domain.MercadoLivre.csproj.CopyComplete
+C:\ProjetoIntegrações\Domain\MercadoLivre\Domain.MercadoLivre\obj\Debug\net6.0\Domain.MercadoLivre.dll
+C:\ProjetoIntegrações\Domain\MercadoLivre\Domain.MercadoLivre\obj\Debug\net6.0\refint\Domain.MercadoLivre.dll
+C:\ProjetoIntegrações\Domain\MercadoLivre\Domain.MercadoLivre\obj\Debug\net6.0\Domain.MercadoLivre.pdb
+C:\ProjetoIntegrações\Domain\MercadoLivre\Domain.MercadoLivre\obj\Debug\net6.0\ref\Domain.MercadoLivre.dll

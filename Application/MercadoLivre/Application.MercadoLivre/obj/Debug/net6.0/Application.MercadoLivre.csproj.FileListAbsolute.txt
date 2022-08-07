@@ -1,0 +1,17 @@
+C:\ProjetoIntegrações\Application\MercadoLivre\Application.MercadoLivre\bin\Debug\net6.0\Application.MercadoLivre.deps.json
+C:\ProjetoIntegrações\Application\MercadoLivre\Application.MercadoLivre\bin\Debug\net6.0\Application.MercadoLivre.dll
+C:\ProjetoIntegrações\Application\MercadoLivre\Application.MercadoLivre\bin\Debug\net6.0\Application.MercadoLivre.pdb
+C:\ProjetoIntegrações\Application\MercadoLivre\Application.MercadoLivre\bin\Debug\net6.0\Domain.MercadoLivre.dll
+C:\ProjetoIntegrações\Application\MercadoLivre\Application.MercadoLivre\bin\Debug\net6.0\Domain.Util.dll
+C:\ProjetoIntegrações\Application\MercadoLivre\Application.MercadoLivre\bin\Debug\net6.0\Domain.MercadoLivre.pdb
+C:\ProjetoIntegrações\Application\MercadoLivre\Application.MercadoLivre\bin\Debug\net6.0\Domain.Util.pdb
+C:\ProjetoIntegrações\Application\MercadoLivre\Application.MercadoLivre\obj\Debug\net6.0\Application.MercadoLivre.csproj.AssemblyReference.cache
+C:\ProjetoIntegrações\Application\MercadoLivre\Application.MercadoLivre\obj\Debug\net6.0\Application.MercadoLivre.GeneratedMSBuildEditorConfig.editorconfig
+C:\ProjetoIntegrações\Application\MercadoLivre\Application.MercadoLivre\obj\Debug\net6.0\Application.MercadoLivre.AssemblyInfoInputs.cache
+C:\ProjetoIntegrações\Application\MercadoLivre\Application.MercadoLivre\obj\Debug\net6.0\Application.MercadoLivre.AssemblyInfo.cs
+C:\ProjetoIntegrações\Application\MercadoLivre\Application.MercadoLivre\obj\Debug\net6.0\Application.MercadoLivre.csproj.CoreCompileInputs.cache
+C:\ProjetoIntegrações\Application\MercadoLivre\Application.MercadoLivre\obj\Debug\net6.0\Application.MercadoLivre.csproj.CopyComplete
+C:\ProjetoIntegrações\Application\MercadoLivre\Application.MercadoLivre\obj\Debug\net6.0\Application.MercadoLivre.dll
+C:\ProjetoIntegrações\Application\MercadoLivre\Application.MercadoLivre\obj\Debug\net6.0\refint\Application.MercadoLivre.dll
+C:\ProjetoIntegrações\Application\MercadoLivre\Application.MercadoLivre\obj\Debug\net6.0\Application.MercadoLivre.pdb
+C:\ProjetoIntegrações\Application\MercadoLivre\Application.MercadoLivre\obj\Debug\net6.0\ref\Application.MercadoLivre.dll

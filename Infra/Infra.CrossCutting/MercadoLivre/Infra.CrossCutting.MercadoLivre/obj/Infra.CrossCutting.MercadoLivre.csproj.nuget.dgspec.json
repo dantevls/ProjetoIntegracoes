@@ -1,0 +1,389 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\ProjetoIntegrações\\Infra\\Infra.CrossCutting\\MercadoLivre\\Infra.CrossCutting.MercadoLivre\\Infra.CrossCutting.MercadoLivre.csproj": {}
+  },
+  "projects": {
+    "C:\\ProjetoIntegrações\\Application\\MercadoLivre\\Application.MercadoLivre\\Application.MercadoLivre.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\ProjetoIntegrações\\Application\\MercadoLivre\\Application.MercadoLivre\\Application.MercadoLivre.csproj",
+        "projectName": "Application.MercadoLivre",
+        "projectPath": "C:\\ProjetoIntegrações\\Application\\MercadoLivre\\Application.MercadoLivre\\Application.MercadoLivre.csproj",
+        "packagesPath": "C:\\Users\\Dante\\.nuget\\packages\\",
+        "outputPath": "C:\\ProjetoIntegrações\\Application\\MercadoLivre\\Application.MercadoLivre\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Dante\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\ProjetoIntegrações\\Domain\\MercadoLivre\\Domain.MercadoLivre\\Domain.MercadoLivre.csproj": {
+                "projectPath": "C:\\ProjetoIntegrações\\Domain\\MercadoLivre\\Domain.MercadoLivre\\Domain.MercadoLivre.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[11.0.1, )"
+            },
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[11.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\ProjetoIntegrações\\Domain\\MercadoLivre\\Domain.MercadoLivre\\Domain.MercadoLivre.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\ProjetoIntegrações\\Domain\\MercadoLivre\\Domain.MercadoLivre\\Domain.MercadoLivre.csproj",
+        "projectName": "Domain.MercadoLivre",
+        "projectPath": "C:\\ProjetoIntegrações\\Domain\\MercadoLivre\\Domain.MercadoLivre\\Domain.MercadoLivre.csproj",
+        "packagesPath": "C:\\Users\\Dante\\.nuget\\packages\\",
+        "outputPath": "C:\\ProjetoIntegrações\\Domain\\MercadoLivre\\Domain.MercadoLivre\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Dante\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\ProjetoIntegrações\\Domain\\Util\\Domain.Util\\Domain.Util.csproj": {
+                "projectPath": "C:\\ProjetoIntegrações\\Domain\\Util\\Domain.Util\\Domain.Util.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\ProjetoIntegrações\\Domain\\Util\\Domain.Util\\Domain.Util.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\ProjetoIntegrações\\Domain\\Util\\Domain.Util\\Domain.Util.csproj",
+        "projectName": "Domain.Util",
+        "projectPath": "C:\\ProjetoIntegrações\\Domain\\Util\\Domain.Util\\Domain.Util.csproj",
+        "packagesPath": "C:\\Users\\Dante\\.nuget\\packages\\",
+        "outputPath": "C:\\ProjetoIntegrações\\Domain\\Util\\Domain.Util\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Dante\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\ProjetoIntegrações\\Infra\\Infra.CrossCutting\\MercadoLivre\\Infra.CrossCutting.MercadoLivre\\Infra.CrossCutting.MercadoLivre.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\ProjetoIntegrações\\Infra\\Infra.CrossCutting\\MercadoLivre\\Infra.CrossCutting.MercadoLivre\\Infra.CrossCutting.MercadoLivre.csproj",
+        "projectName": "Infra.CrossCutting.MercadoLivre",
+        "projectPath": "C:\\ProjetoIntegrações\\Infra\\Infra.CrossCutting\\MercadoLivre\\Infra.CrossCutting.MercadoLivre\\Infra.CrossCutting.MercadoLivre.csproj",
+        "packagesPath": "C:\\Users\\Dante\\.nuget\\packages\\",
+        "outputPath": "C:\\ProjetoIntegrações\\Infra\\Infra.CrossCutting\\MercadoLivre\\Infra.CrossCutting.MercadoLivre\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Dante\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\ProjetoIntegrações\\Application\\MercadoLivre\\Application.MercadoLivre\\Application.MercadoLivre.csproj": {
+                "projectPath": "C:\\ProjetoIntegrações\\Application\\MercadoLivre\\Application.MercadoLivre\\Application.MercadoLivre.csproj"
+              },
+              "C:\\ProjetoIntegrações\\Infra\\Infra.Data\\MercadoLivre\\Infra.Data.MercadoLivre\\Infra.Data.MercadoLivre.csproj": {
+                "projectPath": "C:\\ProjetoIntegrações\\Infra\\Infra.Data\\MercadoLivre\\Infra.Data.MercadoLivre\\Infra.Data.MercadoLivre.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\ProjetoIntegrações\\Infra\\Infra.Data\\Infra.Data.Util\\Infra.Data.Util.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\ProjetoIntegrações\\Infra\\Infra.Data\\Infra.Data.Util\\Infra.Data.Util.csproj",
+        "projectName": "Infra.Data.Util",
+        "projectPath": "C:\\ProjetoIntegrações\\Infra\\Infra.Data\\Infra.Data.Util\\Infra.Data.Util.csproj",
+        "packagesPath": "C:\\Users\\Dante\\.nuget\\packages\\",
+        "outputPath": "C:\\ProjetoIntegrações\\Infra\\Infra.Data\\Infra.Data.Util\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Dante\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\ProjetoIntegrações\\Domain\\Util\\Domain.Util\\Domain.Util.csproj": {
+                "projectPath": "C:\\ProjetoIntegrações\\Domain\\Util\\Domain.Util\\Domain.Util.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.5, )"
+            },
+            "Npgsql.EntityFrameworkCore.PostgreSQL": {
+              "target": "Package",
+              "version": "[5.0.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\ProjetoIntegrações\\Infra\\Infra.Data\\MercadoLivre\\Infra.Data.MercadoLivre\\Infra.Data.MercadoLivre.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\ProjetoIntegrações\\Infra\\Infra.Data\\MercadoLivre\\Infra.Data.MercadoLivre\\Infra.Data.MercadoLivre.csproj",
+        "projectName": "Infra.Data.MercadoLivre",
+        "projectPath": "C:\\ProjetoIntegrações\\Infra\\Infra.Data\\MercadoLivre\\Infra.Data.MercadoLivre\\Infra.Data.MercadoLivre.csproj",
+        "packagesPath": "C:\\Users\\Dante\\.nuget\\packages\\",
+        "outputPath": "C:\\ProjetoIntegrações\\Infra\\Infra.Data\\MercadoLivre\\Infra.Data.MercadoLivre\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Dante\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\ProjetoIntegrações\\Domain\\MercadoLivre\\Domain.MercadoLivre\\Domain.MercadoLivre.csproj": {
+                "projectPath": "C:\\ProjetoIntegrações\\Domain\\MercadoLivre\\Domain.MercadoLivre\\Domain.MercadoLivre.csproj"
+              },
+              "C:\\ProjetoIntegrações\\Domain\\Util\\Domain.Util\\Domain.Util.csproj": {
+                "projectPath": "C:\\ProjetoIntegrações\\Domain\\Util\\Domain.Util\\Domain.Util.csproj"
+              },
+              "C:\\ProjetoIntegrações\\Infra\\Infra.Data\\Infra.Data.Util\\Infra.Data.Util.csproj": {
+                "projectPath": "C:\\ProjetoIntegrações\\Infra\\Infra.Data\\Infra.Data.Util\\Infra.Data.Util.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.5, )"
+            },
+            "Npgsql.EntityFrameworkCore.PostgreSQL": {
+              "target": "Package",
+              "version": "[5.0.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
